@@ -89,8 +89,7 @@ counting of visitors to this page in this section started from Dec 1, 2025
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=TrffnSec/TrffnSec&type=Date)](https://star-history.com/#TrffnSec/trffnsec&type=date&legend=top-left)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=TrffnSec/trffnsec&type=date&legend=top-left)](https://www.star-history.com/#TrffnSec/trffnsec&type=date&legend=top-left)
 
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
